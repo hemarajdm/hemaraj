@@ -8,3 +8,4 @@ int main()
     a=b;
     b=temp;
     printf("Swapped:a=%d,b=%d\n",a,b);
+}
